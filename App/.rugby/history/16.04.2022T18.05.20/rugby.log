@@ -1,0 +1,43 @@
+* Rugby version: 1.17.1
+* Command: rugby -s sim ios
+* Xcode 13.3 / Build version 13E113
+* Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+* CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+* Project: Typographer
+* Git branch: sapientisat/0
+[33m---------------------------------[0m
+[32mPrepare[0m [33mRead project [0m[37m✓[0m
+[32mPrepare[0m [33mPods [0m(2)[33m:[0m
+[32mPrepare[0m [33m* [0mBrightroom
+[32mPrepare[0m [33m* [0mVerge
+[32mPrepare[0m [33mCalculate checksums [0m[37m✓[0m
+[32mPrepare[0m [33mAdditional build targets [0m(1)[33m:[0m
+[32mPrepare[0m [33m* [0mBrightroom-BrightroomUI
+[32mPrepare[0m [33mResolving dependencies graph[0m
+[32mPrepare[0m [33mBuild targets [0m(3)[33m:[0m
+[32mPrepare[0m [33m* [0mBrightroom
+[32mPrepare[0m [33m* [0mBrightroom-BrightroomUI
+[32mPrepare[0m [33m* [0mVerge
+[32mPrepare[0m [33mAdd build target: [0mRugbyPods
+[32mPrepare[0m [33mSave project [0m[37m✓[0m
+[33m[1s][0m [32mPrepare[0m ✓
+[32mBuild[0m [33mBuilding [0m[33msim-x86_64[0m[33m [0m[37m✓[0m
+[32mBuild[0m [33mBuilding [0m[33mios-arm64[0m[33m [0m[37m✓[0m
+[32mBuild[0m [33mUpdate checksums [0m[37m✓[0m
+[33m[47s][0m [32mBuild[0m ✓
+[32mIntegration[0m [33mUpdate paths to built pods [0m[37m✓[0m
+[33m[1s][0m [32mIntegration[0m ✓
+[32mClean up[0m [33mRead project [0m[37m✓[0m
+[32mClean up[0m [33mRemove sources from project[0m
+[32mClean up[0m [33mRemove frameworks[0m
+[32mClean up[0m [33mRemove products[0m
+[32mClean up[0m [33mRemove build target[0m
+[32mClean up[0m [33mRemove built pods[0m
+[32mClean up[0m [33mRemove schemes[0m
+[32mClean up[0m [33mSave project [0m[37m✓[0m
+[33m[1s][0m [32mClean up[0m ✓
+[33m[48s][0m [32mCached 2/2 pods.[0m
+[33m[!] [0m[33mProject size [0m[32m↓78%[0m
+[33m[!] [0m[33mIndexing files count [0m[32m↓98%[0m
+[33m[!] [0m[33mTargets count [0m[32m↓75%[0m
+[33m[48s][0m [32mLet's roll 🏈[0m

@@ -1,0 +1,114 @@
+{
+    "fonts": [
+        {
+            "family": "ABeeZee",
+            "variants": [
+                "regular",
+                "italic"
+            ],
+            "subsets": [
+                "latin"
+            ],
+            "weights": {
+                "400": {
+                    "thickness": 5,
+                    "slant": 1,
+                    "width": 7,
+                    "lineHeight": 1.182
+                },
+                "400i": {
+                    "thickness": 5,
+                    "slant": 4,
+                    "width": 7,
+                    "lineHeight": 1.182
+                }
+            },
+            "axes": [],
+            "designers": [
+                "Anja Meiners"
+            ],
+            "files": {
+                "regular": "http://fonts.gstatic.com/s/abeezee/v14/esDR31xSG-6AGleN6tKukbcHCpE.ttf",
+                "italic": "http://fonts.gstatic.com/s/abeezee/v14/esDT31xSG-6AGleN2tCklZUCGpG-GQ.ttf"
+            },
+            "features": [
+                {
+                    "name": "classification",
+                    "value": "Sans Serif"
+                },
+                {
+                    "name": "Weight",
+                    "value": []
+                },
+                {
+                    "name": "Slant",
+                    "value": [
+                        "Oblique"
+                    ]
+                },
+                {
+                    "name": "Width",
+                    "value": []
+                },
+                {
+                    "name": "Contrast",
+                    "value": "None"
+                },
+                {
+                    "name": "Typography",
+                    "value": []
+                }
+            ]
+        },
+        {
+            "family": "Abel",
+            "variants": [
+                "regular"
+            ],
+            "subsets": [
+                "latin"
+            ],
+            "weights": {
+                "400": {
+                    "thickness": 4,
+                    "slant": 1,
+                    "width": 2,
+                    "lineHeight": 1.2744140625
+                }
+            },
+            "axes": [],
+            "designers": [
+                "MADType"
+            ],
+            "files": {
+                "regular": "http://fonts.gstatic.com/s/abel/v12/MwQ5bhbm2POE6VhLPJp6qGI.ttf"
+            },
+            "features": [
+                {
+                    "name": "classification",
+                    "value": "Sans Serif"
+                },
+                {
+                    "name": "Weight",
+                    "value": []
+                },
+                {
+                    "name": "Slant",
+                    "value": []
+                },
+                {
+                    "name": "Width",
+                    "value": []
+                },
+                {
+                    "name": "Contrast",
+                    "value": "None"
+                },
+                {
+                    "name": "Typography",
+                    "value": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+module Verge {
+  umbrella header "Verge-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_Typer {
+  umbrella header "Pods-Typer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,26 @@
+PODS:
+  - Brightroom/Engine (2.6.0):
+    - Verge/Store (>= 8.9.1)
+  - Brightroom/UI-Crop (2.6.0):
+    - Brightroom/Engine
+    - Verge/Store (>= 8.9.1)
+  - Verge/ObjcBridge (8.15.4)
+  - Verge/Store (8.15.4):
+    - Verge/ObjcBridge
+
+DEPENDENCIES:
+  - Brightroom/Engine
+  - Brightroom/UI-Crop
+
+SPEC REPOS:
+  trunk:
+    - Brightroom
+    - Verge
+
+SPEC CHECKSUMS:
+  Brightroom: 729b0dd83a31890fed973b8346bdafc95607d415
+  Verge: 81e8afb118a3be60a526e28e4d24064cdb9907e1
+
+PODFILE CHECKSUM: ce55407d0ad68e062f3d73ef68e2ea085abd14a6
+
+COCOAPODS: 1.11.3

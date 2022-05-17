@@ -1,0 +1,27 @@
+# file options
+
+--exclude Typography/Resources
+
+# disabled rules
+
+--disable wrapMultilineStatementBraces
+--disable andOperator
+--disable organizeDeclarations
+--disable preferKeyPath
+--disable redundantLetError
+--disable trailingCommas
+--disable unusedArguments
+--disable wrapAttributes
+
+# format options
+
+--extensionacl on-extension
+--ifdef no-indent
+--indent 2
+--maxwidth 120
+--nospaceoperators ...,..<
+--swiftversion 5.6
+--wraparguments before-first
+--wrapcollections before-first
+--wrapparameters before-first
+--modifierorder public,private,private(set),internal,static,override,final,weak,unowned

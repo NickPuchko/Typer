@@ -1,0 +1,60 @@
+included:
+  - Typography
+  - TypographyTests
+  - TypographyUITests
+
+excluded:
+  - Typography/Resources
+
+disabled_rules:
+  - cyclomatic_complexity
+  - function_parameter_count
+  - large_tuple
+  - todo
+  - unused_closure_parameter
+
+line_length: 120
+
+identifier_name:
+  excluded:
+    - ad
+    - at
+    - by
+    - db
+    - di
+    - dx # delta x
+    - dy # delta y
+    - i
+    - id
+    - j
+    - no
+    - ok
+    - on
+    - op # Operation
+    - pk # Primary Key
+    - to
+    - ui
+    - vc # ViewController
+    - x
+    - y
+  allowed_symbols:
+    - _
+
+custom_rules:
+  access_and_overridability_order:
+    name: "Access and overridability keywords order"
+    regex: '^final (public|internal|private|fileprivate) class'
+    message: "Access keyword should be first, final second"
+    severity: warning
+
+  use_http_headers:
+    name: "Use HTTPHeaders"
+    regex: 'allHeaderFields'
+    message: "Don't directly use allHeaderFields, use httpHeaders instead"
+    severity: warning
+
+  one_newline_after_import:
+    name: "New line after imports"
+    regex: "import [A-Za-z]+\n\n\n"
+    message: "There should be only one new line after import statements"
+    severity: warning

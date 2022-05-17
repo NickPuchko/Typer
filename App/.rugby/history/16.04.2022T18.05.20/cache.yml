@@ -1,0 +1,22 @@
+Debug-iphonesimulator:
+  sdk: sim
+  arch: x86_64
+  config: Debug
+  swift: '5.6'
+  xcargs:
+  - COMPILER_INDEX_STORE_ENABLE=NO
+  - SWIFT_COMPILATION_MODE=wholemodule
+  checksums:
+  - 'Brightroom: 729b0dd83a31890fed973b8346bdafc95607d415'
+  - 'Verge: 81e8afb118a3be60a526e28e4d24064cdb9907e1'
+Debug-iphoneos:
+  sdk: ios
+  arch: arm64
+  config: Debug
+  swift: '5.6'
+  xcargs:
+  - COMPILER_INDEX_STORE_ENABLE=NO
+  - SWIFT_COMPILATION_MODE=wholemodule
+  checksums:
+  - 'Brightroom: 729b0dd83a31890fed973b8346bdafc95607d415'
+  - 'Verge: 81e8afb118a3be60a526e28e4d24064cdb9907e1'

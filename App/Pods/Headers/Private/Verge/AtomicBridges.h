@@ -1,0 +1,1 @@
+../../../Verge/Sources/VergeObjcBridge/include/AtomicBridges.h
